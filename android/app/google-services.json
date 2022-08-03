@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205998063306",
+    "project_id": "multi-play-aea6d",
+    "storage_bucket": "multi-play-aea6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205998063306:android:2621c8f8806d2c225bfe33",
+        "android_client_info": {
+          "package_name": "com.multiplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205998063306-1vaplfifp3chiifal4g3n5rvno8drn2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzvNGBDcwOQ5v4V0dtuuYC4o2EjzZON5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205998063306-1vaplfifp3chiifal4g3n5rvno8drn2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
