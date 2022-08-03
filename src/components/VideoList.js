@@ -6,7 +6,7 @@ import { NavigationContainer } from '@react-navigation/native'
 
 const VideoList = ({navigation}) => {
     const List=[{
-        path:require("../assets/dna.mp4"),
+        path:require("../assets/cartoon2.mp4"),
         name:"Dna"
     },{
         path:require("../assets/virus.mp4"),
