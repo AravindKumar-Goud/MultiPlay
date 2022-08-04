@@ -13,7 +13,7 @@ function VideoPlay({route}) {
   
     <Video
     source={path}
-    style={{ width:350, height: 250 }}
+    style={{ width:350, height: 350 }}
     controls={true}
     // resizeMode="cover"
     fullscreen={true}
